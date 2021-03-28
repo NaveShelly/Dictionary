@@ -1,0 +1,4 @@
+﻿  Definition.cpp
+c:\users\naves\onedrive\מסמכים\visual studio 2015\projects\hw3.1\hw3.1\definition.cpp(50): warning C4715: 'Definition::operator!=': not all control paths return a value
+  Hw3.1.vcxproj -> C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\Hw3.1\Debug\Hw3.1.exe
+  Hw3.1.vcxproj -> C:\Users\Naves\onedrive\מסמכים\visual studio 2015\Projects\Hw3.1\Debug\Hw3.1.pdb (Partial PDB)
